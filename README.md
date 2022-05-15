@@ -1,0 +1,2 @@
+# MatrixResultPy
+Решение матрицы Python
